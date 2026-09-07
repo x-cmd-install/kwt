@@ -5,7 +5,7 @@ about:
   head: 3f71aa1
   archived: false
   latestVersion: "v0.0.8"
-  collectedAt: 2026-09-07T06:00:15Z
+  collectedAt: 2026-09-07T18:40:41Z
 timeline:
   created: 2018-09-24
   lastCommit: 2023-09-25
@@ -81,7 +81,7 @@ total:
   commit: 127
 ---
 path: /home/runner/.x-repo/github.com/carvel-dev/kwt
-collectedAt: 2026-09-07T06:00:18Z
+collectedAt: 2026-09-07T18:40:45Z
 loc:
   Go:
     code: 620144
@@ -162,7 +162,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:19+00:00
+  collectedAt: 2026-09-07T18:40:46+00:00
   platform:
     darwin/arm64:
       name:  kwt-darwin-arm64
