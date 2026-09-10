@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.8"
   latestRelease: "v0.0.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:10:41Z
+  collectedAt: 2026-09-10T20:21:42Z
 timeline:
   created: 2018-09-24
   lastCommit: 2023-09-25
@@ -85,7 +85,7 @@ total:
   commit: 127
 ---
 path: /home/runner/.x-repo/github.com/carvel-dev/kwt
-collectedAt: 2026-09-10T06:10:47Z
+collectedAt: 2026-09-10T20:21:45Z
 loc:
   Go:
     code: 620144

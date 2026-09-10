@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: kwt
+  binname: kwt
+  visiblename: kwt
+  version: 0.0.8
+  origversion: 0.0.8-4
+  status: unique
+  summary: Kubernetes Workstation Tools CLI
+  maintainers:
+    - zebradil@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kwt-bin
+  binname: kwt-bin
+  visiblename: kwt-bin
+  version: 0.0.8
+  origversion: 0.0.8-10
+  status: unique
+  summary: Kubernetes Workstation Tools CLI
+  maintainers:
+    - zebradil@aur
+  licenses:
+    - Apache-2.0
