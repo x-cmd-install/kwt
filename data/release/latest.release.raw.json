@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 35588336,
       "digest": null,
-      "download_count": 1530342,
+      "download_count": 1531023,
       "created_at": "2023-09-25T20:07:43Z",
       "updated_at": "2023-09-25T20:07:45Z",
       "browser_download_url": "https://github.com/carvel-dev/kwt/releases/download/v0.0.8/kwt-linux-amd64"
